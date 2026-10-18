@@ -21,11 +21,3 @@ Um sistema simples em Python executado no terminal para monitoramento de níveis
 - **Python 3.10+** (utiliza sintaxe `match/case`)
 - **[Colorama](https://pypi.org/project/colorama/)**: Biblioteca para estilização de cores e texto no terminal.
 
----
-
-## ⚙️ Pré-requisitos e Instalação
-
-1. Clone o repositório ou baixe o código-fonte:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-   cd seu-repositorio
